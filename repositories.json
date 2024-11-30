@@ -1,0 +1,13 @@
+{
+	"author": "Brice Ruth",
+	"gitHubUrl": "https://github.com/bdruth",
+	"packages": [
+		{
+			"name": "Ecobee Suite (fork)",
+			"category": "Integrations",
+			"location": "https://raw.githubusercontent.com/bdruth/Ecobee-Suite/refs/heads/master/packageManifest.json",
+			"description": "Ecobee-Suite fix-fork"
+		}
+	]
+	
+}
